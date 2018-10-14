@@ -1,0 +1,72 @@
+{
+    "Sunday": {
+        "12:00": {
+            "text": "Follow everyone who LIKES and RTs this.",
+            "randomEmoji": true
+        },
+        "23:00": {
+            "text": "Follow everyone who LIKES and RTs this.",
+            "randomEmoji": true
+        }
+    },
+    "Monday": {
+        "12:00": {
+            "text": "Follow everyone who LIKES and RTs this.",
+            "randomEmoji": true
+        },
+        "23:00": {
+            "text": "Follow everyone who LIKES and RTs this.",
+            "randomEmoji": true
+        }
+    },
+    "Tuesday": {
+        "12:00": {
+            "text": "Follow everyone who LIKES and RTs this.",
+            "randomEmoji": true
+        },
+        "23:00": {
+            "text": "Follow everyone who LIKES and RTs this.",
+            "randomEmoji": true
+        }
+    },
+    "Wednesday": {
+        "12:00": {
+            "text": "Follow everyone who LIKES and RTs this.",
+            "randomEmoji": true
+        },
+        "23:00": {
+            "text": "Follow everyone who LIKES and RTs this.",
+            "randomEmoji": true
+        }
+    },
+    "Thursday": {
+        "12:00": {
+            "text": "Follow everyone who LIKES and RTs this.",
+            "randomEmoji": true
+        },
+        "23:00": {
+            "text": "Follow everyone who LIKES and RTs this.",
+            "randomEmoji": true
+        }
+    },
+    "Friday": {
+        "12:00": {
+            "text": "Follow everyone who LIKES and RTs this.",
+            "randomEmoji": true
+        },
+        "23:00": {
+            "text": "Follow everyone who LIKES and RTs this.",
+            "randomEmoji": true
+        }
+    },
+    "Saturday": {
+        "12:00": {
+            "text": "Follow everyone who LIKES and RTs this.",
+            "randomEmoji": true
+        },
+        "23:00": {
+            "text": "Follow everyone who LIKES and RTs this.",
+            "randomEmoji": true
+        }
+    }
+}
